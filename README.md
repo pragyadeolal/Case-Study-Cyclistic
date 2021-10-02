@@ -14,3 +14,5 @@ pricing flexibility helps Cyclistic attract more customers, the company believes
 be key to future growth. Rather than creating a marketing campaign that targets all-new customers, the company believes that there is a
 very good chance to convert casual riders into members. It has been noted that casual riders are already aware of the Cyclistic
 program and have chosen Cyclistic for their mobility needs.
+
+##### [Download the previous 12 months of Cyclistic trip data.](https://divvy-tripdata.s3.amazonaws.com/index.html)
